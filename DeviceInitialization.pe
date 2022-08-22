@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PEproject>
+  <Header>
+    <Name>DeviceInitialization</Name>
+    <SavedBy>Malena</SavedBy>
+    <ModificationStamp />
+    <Date>2020-07-19</Date>
+    <IDE>Eclipse IDE</IDE>
+    <PEversion />
+  </Header>
+  <Options>
+    <EventsDirectory>Sources</EventsDirectory>
+    <GeneratedCodeDirectory>Generated_Code</GeneratedCodeDirectory>
+    <DocumentationDir>Documentation</DocumentationDir>
+    <ProjectSettingsDirectory>Project_Settings</ProjectSettingsDirectory>
+    <MainModuleUpdate>3</MainModuleUpdate>
+    <EventModulesUpdate>3</EventModulesUpdate>
+    <UseExistingModules>true</UseExistingModules>
+    <ProjectCompNumb>1</ProjectCompNumb>
+    <GenerateCodeBeforeBuild>true</GenerateCodeBeforeBuild>
+    <GenerateCodeGenLog>false</GenerateCodeGenLog>
+  </Options>
+</PEproject>
+
